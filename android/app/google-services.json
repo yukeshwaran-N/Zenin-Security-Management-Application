@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77473541906",
+    "project_id": "so-notification-2a389",
+    "storage_bucket": "so-notification-2a389.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77473541906:android:25066794b9395adc33cdcb",
+        "android_client_info": {
+          "package_name": "com.example.embassy_patrol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA38Z5rM_ckMcBsp8hiji_5BwlwiDlwvp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
